@@ -1,1 +1,2 @@
 # branch: feature/arquivo_rebase - adicionando arquivo rebase.txt
+# branch feature/arquivo_rebase - Nova linha no arquivo rebase.txt
