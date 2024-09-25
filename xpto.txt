@@ -1,2 +1,5 @@
 branch feature/arquivo_xpto.txt
+
 #branch main - repositório local - Nova linha usuario local
+
+# branch main - Novas linhas usuário fez alteração remota.
