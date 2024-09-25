@@ -7,3 +7,4 @@ Nova mensagem de alteração
  1 file changed, 1 insertion(+)
 # branch main - Teste 
 # branch: main - Estou editando o arquivo no github nuvem local
+# branch: main - Outra linha adicionada diretamente de detro do github
